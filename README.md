@@ -10,4 +10,7 @@ Just Replace Bot Token in bot.py And You ready To Deploy it .
 
 note: it May be contains some bug. I am not working On It.
 ```
-# Credit : sorry Not able find That repo For Credit But Everything Is mentioned in uploader.py file.
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://gitlab.com/Vijay63/wetransfer-Uploader-Bot)
+
+
+# Credit : @Aryanvikash
