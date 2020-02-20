@@ -13,7 +13,7 @@ from pySmartDL import SmartDL
 
 
 ######################################################################################
-bot_token ='YOUR_BOT_TOKEN_HERE'       #
+bot_token ='875777594:AAHUD8W-eBag8MK-UJawVa-8DOaHeJK67DE'       #
 
 updater = Updater(token= bot_token, use_context=True)                                #
 
